@@ -1,3 +1,24 @@
+## Welcom to UWCI.TOP
+goto [uwci.top](http://evica.leanote.com/)
+
+goto [What/Why/How](https://www.baidu.com)
+
+goto [aliyun.com](https://www.aliyun.com)
+
+goto [登录微信](https://wx.qq.com)
+
+goto [登录cctalk](https://www.cctalk.com/u/subscription/)
+- goto [French](https://www.cctalk.com/m/program/1523069842425826)
+- goto [Deutsch](https://www.cctalk.com/m/program/1523070562474892)
+- goto  [latin预科](https://www.cctalk.com/m/program/1522748206576677)
+- goto  [辅助课程](https://www.cctalk.com/m/program/1523026459769791)
+
+
+goto [登录mooc](https://Icourse63.org/)
+
+goto [登录pastelist leanote.com](http://evica.leanote.com/)
+goto [登录pastelist mubu.io](https://mubu.io)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/uwci/w/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

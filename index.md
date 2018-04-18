@@ -1,4 +1,4 @@
-## I REMEMBER UWCI.TOP [登录编辑](https://github.com/uwci/w/edit/master/index.md)
+## I REMEMBER UWCI.TOP [编辑本页](https://github.com/uwci/w/edit/master/index.md)
 
 goto [uwci.top](http://evica.leanote.com/)
 

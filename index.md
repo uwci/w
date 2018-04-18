@@ -1,4 +1,4 @@
-## Welcom to UWCI.TOP [本页编辑](https://github.com/uwci/w/edit/master/index.md)
+## I REMEMBER UWCI.TOP [本页编辑](https://github.com/uwci/w/edit/master/index.md)
 
 goto [uwci.top](http://evica.leanote.com/)
 
@@ -21,6 +21,12 @@ goto [登录pastelist leanote.com](http://evica.leanote.com/)
 goto [添加paste](https://leanote.com/note/)
 
 goto [登录pastelist mubu.io](https://mubu.com/list)
+
+## Teaching for holiday
+goto [登录查询认定公告](http://gk.wh.cn/xxgkweb/blue/index.jsp?unit=003274277)
+
+## Learning to travel
+goto [登录Git导航] https://timesed.github.io/g/
 
 ## Welcome to GitHub Pages
 

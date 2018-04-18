@@ -1,4 +1,5 @@
 ## Welcom to UWCI.TOP
+[本页编辑](https://github.com/uwci/w/edit/master/index.md)
 goto [uwci.top](http://evica.leanote.com/)
 
 goto [What/Why/How](https://www.baidu.com)
@@ -14,9 +15,10 @@ goto [登录cctalk](https://www.cctalk.com/u/subscription/)
 - goto  [辅助课程](https://www.cctalk.com/m/program/1523026459769791)
 
 
-goto [登录mooc](https://Icourse63.org/)
+goto [登录mooc](https://www.icourse163.org/)
 
 goto [登录pastelist leanote.com](http://evica.leanote.com/)
+
 goto [登录pastelist mubu.io](https://mubu.com/list)
 
 ## Welcome to GitHub Pages

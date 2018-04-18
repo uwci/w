@@ -1,5 +1,5 @@
-## Welcom to UWCI.TOP
-[本页编辑](https://github.com/uwci/w/edit/master/index.md)
+## Welcom to UWCI.TOP [本页编辑](https://github.com/uwci/w/edit/master/index.md)
+
 goto [uwci.top](http://evica.leanote.com/)
 
 goto [What/Why/How](https://www.baidu.com)

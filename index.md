@@ -13,6 +13,8 @@ goto [登录cctalk](https://www.cctalk.com/u/subscription/)
 - goto [Deutsch](https://www.cctalk.com/m/program/1523070562474892)
 - goto  [latin预科](https://www.cctalk.com/m/program/1522748206576677)
 - goto  [辅助课程](https://www.cctalk.com/m/program/1523026459769791)
+- goto [**课前准备**](https://www.cctalk.com/m/program/1522942937450831)
+- goto [如何快速学好一门语言](https://www.cctalk.com/m/program/1515731004888785)
 
 
 goto [登录mooc](https://www.icourse163.org/)

@@ -18,6 +18,7 @@ goto [登录cctalk](https://www.cctalk.com/u/subscription/)
 goto [登录mooc](https://www.icourse163.org/)
 
 goto [登录pastelist leanote.com](http://evica.leanote.com/)
+goto [添加paste](https://leanote.com)
 
 goto [登录pastelist mubu.io](https://mubu.com/list)
 

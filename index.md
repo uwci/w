@@ -1,6 +1,6 @@
 ## I REMEMBER UWCI.TOP [编辑本页](https://github.com/uwci/w/edit/master/index.md)
 
-goto [uwci.top](http://uwci.top/)
+goto [uwci.top](http://uwci.top/) goto [随身记录](http://evica.leanote.com/)
 
 goto [What/Why/How](https://www.baidu.com)
 

@@ -26,7 +26,7 @@ goto [登录pastelist mubu.io](https://mubu.com/list)
 
 ## Teaching for holiday
 goto [认定公告](http://gk.wh.cn/xxgkweb/blue/index.jsp?unit=003274277)
-
+goto [网上认定](http://www.jszg.edu.cn/portal/home/index)
 ## Learning to travel
 goto [Git导航](https://timesed.github.io/g/)
 

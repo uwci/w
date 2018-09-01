@@ -27,9 +27,15 @@ goto [登录pastelist mubu.io](https://mubu.com/list)
 ## Teaching for holiday
 goto [认定公告](http://gk.wh.cn/xxgkweb/blue/index.jsp?unit=003274277)
 goto [网上认定](http://www.jszg.edu.cn/portal/home/index)
+goto Indonesian Bali Island
+goto Maldive island
+goto Hawaii island
+goto Nihongo island
+
 ## Learning to travel
 goto [Git导航](https://timesed.github.io/g/)
 goto [拉丁语第一课](https://github.com/uwci/w/blob/master/latin.md)
+
 
 ## Welcome to GitHub Pages
 

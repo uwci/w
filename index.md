@@ -1,6 +1,7 @@
 ## u  will c it on the top [Edit](https://github.com/uwci/w/edit/master/index.md)
 
 goto [uwci.top](http://uwci.top/) goto [随身记录](http://evica.leanote.com/)
+[ELSE](https://github.com/uwci/w/blob/master/index.md)
 
 goto [What/Why/How](https://www.baidu.com)
 

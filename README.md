@@ -1,3 +1,9 @@
+http://uwci.top 分类页面
+https://timesed.github.io/g/ 古老的原型
+https://uwci.github.io/w/ 重定向到分类页面
+https://uwci.github.io/w/g.html
+https://uwci.github.io/w/g1000.html 功绩！
+
 #图书馆
 
 https://timesed.github.io/g/

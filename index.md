@@ -36,6 +36,18 @@ goto Nihongo island
 goto [Git导航](https://timesed.github.io/g/)
 goto [拉丁语第一课](https://github.com/uwci/w/blob/master/latin.md)
 
+---
+
+
+[w/料网导航 | 料网.pdf at master · uwci/w · GitHub](https://uwci.github.io/w/documents/料网导航%20%7C%20料网.pdf)
+
+[w/网址收藏大木虫.pdf at master · uwci/w · GitHub](https://uwci.github.io/w/documents/网址收藏大木虫.pdf)
+
+[w/在线课程书单.pdf at master · uwci/w · GitHub](https://uwci.github.io/w/documents/在线课程书单.pdf)
+
+替换选项：
+[u  will c it on the top Edit | w](https://uwci.github.io/w/)
+
 
 ## Welcome to GitHub Pages
 

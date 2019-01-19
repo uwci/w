@@ -1,14 +1,28 @@
-http://uwci.top 分类页面
-https://timesed.github.io/g/ 古老的原型
-https://uwci.github.io/w/ 重定向到分类页面
+http://uwci.top 分类页面；这是一个七拼八凑的主页 功绩1003！
+
+https://timesed.github.io/g/ 古老的原型，照抄！功绩1001！
+
+https://uwci.github.io/w/ 重定向到分类页面 功绩1002！
+
 https://uwci.github.io/w/g.html
+
 https://uwci.github.io/w/g1000.html 功绩！
+
+http://uwci.top/g1000.html 功绩0999！
+
 
 #图书馆
 
 https://timesed.github.io/g/
 
 https://timesed.github.io/g/index
+
+
+
+
+
+
+
 
 2
 ## Introduction
